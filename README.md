@@ -16,12 +16,12 @@ For developers, Contexto provides a powerful dashboard to visualize wallet clust
 
 The Contexto pipeline is designed for robust, real-time wallet analysis and context delivery.
 
-![Flowchart explaining the data pipeline from wallet input to final analysis.](https://raw.githubusercontent.com/jashwanth0712/contexto/main/public/flow.jpeg)
+![Flowchart explaining the data pipeline from wallet input to final analysis.](./public/graph-flowchart.jpeg)
 *The data flow: Wallet address is queried via The Graph API, and the resulting data is parsed and analyzed to flag the wallet.*
 
 <br>
 
-![Diagram showing how the LLM uses wallet context to differentiate between spam and genuine wallets.](https://raw.githubusercontent.com/jashwanth0712/contexto/main/public/context.jpeg)
+![Diagram showing how the LLM uses wallet context to differentiate between spam and genuine wallets.](./public/context-flowchart.jpeg)
 *The Contexto Engine provides enriched context, allowing the agent to accurately distinguish between spam and genuine wallets.*
 
 <br>
