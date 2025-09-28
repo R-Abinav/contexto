@@ -38,12 +38,12 @@ The Contexto pipeline is designed for robust, real-time wallet analysis and cont
 
 ## Product Preview
 
-![PLACEHOLDER: Add a screenshot of your product's main dashboard or interface here.](https://via.placeholder.com/800x450.png?text=Product+Dashboard+Screenshot)
+![PLACEHOLDER: Add a screenshot of your product's main dashboard or interface here.](./public/chat-interface.jpeg)
 *A preview of the main Contexto developer dashboard.*
 
 <br>
 
-![PLACEHOLDER: Add another interesting screenshot, perhaps of a wallet's detailed profile.](https://via.placeholder.com/800x450.png?text=Detailed+Wallet+Profile+View)
+![PLACEHOLDER: Add another interesting screenshot, perhaps of a wallet's detailed profile.](./public/dashboard-interface.jpeg)
 *Detailed analysis of an individual wallet profile.*
 
 <br>
